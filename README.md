@@ -1,32 +1,18 @@
-# 👋 Hi, I’m Luiz Palmieri
+I’m a software engineer building robust, scalable, and real-time applications with a strong focus on **Industry 4.0** space. I specialize in **Go**, **TypeScript**, and **React**, and I architect systems using **Clean Architecture**, **Domain-Driven Design**, and **modern protocols** like **MQTT**.
 
-I'm a software engineer focused on building scalable, real-time applications — especially in the **Industry 4.0** space. I specialize in **Go**, **TypeScript**, and **React**, and follow principles like **Clean Architecture** and **Domain-Driven Design**, often integrating modern protocols like **MQTT**.
+Although my professional experience is centered on industrial and manufacturing domains, I’m **deeply open to exploring new and innovative business areas**.
 
-Although my background is in manufacturing and industrial systems, I’m always open to **new and innovative domains**.
+Currently working on:
 
----
-
-### ⚙️ Currently Building
-
-- 🧠 A real-time IoT platform for industrial monitoring (ProdIQ)
-- ⚙️ Operation execution tracking and machine-state integration
-- 🔌 WebSocket + MQTT control panels with React
+- 🧠 Real-time IoT platform for industrial monitoring (ProdIQ)
+- ⚙️ Operation execution tracking with machine integration
+- 🔌 WebSocket + MQTT + React-based control panels
 
 ---
 
-### 💡 What Drives Me
+### ⚒️ Tech I use daily
 
-I’m passionate about **clean code**, **team collaboration**, and **continuous learning**. I value the human side of software — believing that empathy and curiosity make us better problem-solvers and builders.
-
----
-
-### 🛠️ Tech Highlights
-
-Go · TypeScript · React · Zustand · Node.js  
-MQTT · WebSocket · PostgreSQL · Docker · GitHub Actions
-
----
-
-### 📫 Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/luizpalmieri)
+- **Languages:** Go · TypeScript · JavaScript
+- **Frontend:** React · Redux · Zustand · TailwindCSS · AntDesign · Keycloak · MQTT · WebSocket
+- **Backend:** Golang · Node.js · REST APIs · SQL · ORMs
+- **Infra:** Docker · Kubernetes · Redis · PostgreSQL · RabbitMQ · MQTT · Keycloak · GitHub Actions
