@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Luiz Palmieri
+## Hi, I’m Luiz Palmieri
 I’m a software engineer building robust, scalable, and real-time applications with a strong focus on **Industry 4.0** space. Although my professional experience is centered on industrial and manufacturing domains, I’m **deeply open to exploring new and innovative business areas**.
 
 Currently working on:
