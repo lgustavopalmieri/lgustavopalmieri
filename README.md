@@ -1,6 +1,5 @@
-I’m a software engineer building robust, scalable, and real-time applications with a strong focus on **Industry 4.0** space. I specialize in **Go**, **TypeScript**, and **React**, and I architect systems using **Clean Architecture**, **Domain-Driven Design**, and **modern protocols** like **MQTT**.
-
-Although my professional experience is centered on industrial and manufacturing domains, I’m **deeply open to exploring new and innovative business areas**.
+# 👋 Hi, I’m Luiz Palmieri
+I’m a software engineer building robust, scalable, and real-time applications with a strong focus on **Industry 4.0** space. Although my professional experience is centered on industrial and manufacturing domains, I’m **deeply open to exploring new and innovative business areas**.
 
 Currently working on:
 
@@ -12,7 +11,7 @@ Currently working on:
 
 ### ⚒️ Tech I use daily
 
-- **Languages:** Go · TypeScript · JavaScript
-- **Frontend:** React · Redux · Zustand · TailwindCSS · AntDesign · Keycloak · MQTT · WebSocket
-- **Backend:** Golang · Node.js · REST APIs · SQL · ORMs
-- **Infra:** Docker · Kubernetes · Redis · PostgreSQL · RabbitMQ · MQTT · Keycloak · GitHub Actions
+- **Languages:** Go · TypeScript
+- **Frontend:** React · Redux · Zustand · TailwindCSS · AntDesign · MQTT · WebSocket
+- **Backend:** Golang · Node.js · REST APIs · SQL 
+- **Infra:** Docker · Redis · PostgreSQL · RabbitMQ · MQTT · GitHub Actions
