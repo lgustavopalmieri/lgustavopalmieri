@@ -1,7 +1,9 @@
 ## 👋 Hi, I’m Luiz
 
 Software Engineer with 4+ years of hands-on experience building scalable web applications. Currently working as a Mid-level Software Engineer at the largest fashion e-commerce in Latin America, handling high-throughput systems and real-world scale challenges using Golang.
+
 Background in Industry 4.0 environments, working with industrial systems, real-time data pipelines (MQTT/WebSocket), and production/KPI-driven platforms.
+
 Focused on Backend Engineering and innovation — currently pursuing an MBA in Software Engineering with a focus on Artificial Intelligence.
 
 ---
