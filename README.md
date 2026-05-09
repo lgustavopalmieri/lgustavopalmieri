@@ -8,17 +8,6 @@ Focused on Backend Engineering and innovation — currently pursuing an MBA in S
 
 ---
 
-### ⚙️ What I do
-
-* Backend engineering with Golang at scale
-* Artificial Intelligence applications (MBA in Software Engineering – AI focus)
-* Design scalable architectures (DDD, Clean Architecture, Event-driven systems)
-* Work with real-time and asynchronous systems (Kafka, RabbitMQ, MQTT)
-* Apply DevOps practices (CI/CD, Terraform, AWS, observability with Grafana/Prometheus/OTEL)
-* Deliver consistent, high-quality solutions with a strong focus on impact
-
----
-
 ### 📚 Beyond Code
 
 I started my tech career in 2022 after 11 years as a videomaker, bringing a strong foundation in discipline, ownership, and fast learning. Passionate about literature, languages, and human development. I believe empathy and a systemic vision are key to creating meaningful, impactful, and scalable solutions.
