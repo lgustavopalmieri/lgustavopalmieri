@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Luiz
 
-Software Engineer with 4+ years of hands-on experience building scalable web applications. Currently working as a Mid-level at the largest fashion e-commerce in Latin America, handling high-throughput systems and real-world scale challenges using Golang.
+Software Engineer with 4+ years of hands-on experience building scalable web applications. Currently working as a Mid-level.
 
 Background in Industry 4.0 environments, with experience using React, JavaScript/TypeScript, and Node.js to build industrial systems, real-time data pipelines (MQTT/WebSocket), and production/KPI-driven platforms.
 
