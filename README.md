@@ -2,7 +2,7 @@
 
 Software Engineer with 4+ years of hands-on experience building scalable web applications. Currently working as a Mid-level.
 
-Background in Industry 4.0 environments, with experience using React, JavaScript/TypeScript, and Node.js to build industrial systems, real-time data pipelines (MQTT/WebSocket), and production/KPI-driven platforms.
+Background in Industry 4.0 environments, with experience using Go, React, JavaScript/TypeScript, and Node.js to build industrial systems, real-time data pipelines (MQTT/WebSocket), and production/KPI-driven platforms.
 
 Focused on Backend Engineering and innovation — currently pursuing an MBA in Software Engineering with a focus on Artificial Intelligence.
 
